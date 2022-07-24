@@ -1,0 +1,24 @@
+{
+  "name": "curso-js-profesional",
+  "version": "1.0.0",
+  "description": "Proyecto realizado durante el curso JavaScript profesional de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusMNA/curso-JS-profesional.git"
+  },
+  "keywords": [
+    "platzi",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Jesus Navar Aragon <jesuso_0709@hotmail.com>",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/JesusMNA/curso-JS-profesional/issues"
+  },
+  "homepage": "https://github.com/JesusMNA/curso-JS-profesional#readme"
+}
